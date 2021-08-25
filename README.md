@@ -4,9 +4,12 @@
 
 # Hello there! 👋
 
-I'm a software engineer from London, UK. 
+I’m a software engineer from London, UK.
 
-I would consider myself a backend engineer due to my strong interest in scalable distributed systems;
-however, I am comfortable in a full-stack environment having worked on large Angular/React applications in the past.
+I tend to lean more towards the backend side of the spectrum; however, I am comfortable in a full-stack environment having worked on large Angular/React applications in the past.
 
-Most of the projects on my profile are from **2018/2019**.
+I am currently taking a 4 year hiatus to pursue a degree in Software Engineering.
+
+Most of the projects on my profile are from **2018/2019** (see dated license).
+
+In my spare time, I am working on an EdTech startup.
